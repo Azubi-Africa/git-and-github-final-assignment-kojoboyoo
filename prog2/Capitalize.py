@@ -14,6 +14,8 @@ new_sent=revsent(normal_sentence)
 
 print(new_sent)
 
+print("the split sentence code is not working")
+
 print("\n\n")
 
 print("we are doing a git test")
