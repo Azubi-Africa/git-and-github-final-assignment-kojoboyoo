@@ -1,0 +1,1 @@
+This is to determine the average of a list of product in a store
