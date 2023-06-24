@@ -16,7 +16,7 @@ ave_g = sum(prices)/len(prices)
 
 print("thanks")
 
-
+print("final assignment")
 
 
 
