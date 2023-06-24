@@ -16,6 +16,8 @@ ave_g = sum(prices)/len(prices)
 
 print("thanks")
 
+print("this is all i can do")
+
 
 
 
