@@ -4,4 +4,3 @@ print("thanks")
 
 print("end of project")
 
-print("nun new here")
