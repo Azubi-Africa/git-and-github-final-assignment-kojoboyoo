@@ -9,9 +9,12 @@ last_week = [2, 3, 5, 8, 4, 4, 6, 2, 9]
 
 
 
+
 price_len = len(prices) # this is to get the lenght of the list
 
 ave_g = sum(prices)/len(prices)
+
+print("thanks")
 
 
 
