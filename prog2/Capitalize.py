@@ -16,6 +16,8 @@ print(new_sent)
 
 print("\n\n")
 
+print("we are doing a git test")
+
 def splitsent(x):
     return(x.split())
 
